@@ -1,0 +1,11 @@
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment.deps.json
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment.runtimeconfig.json
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment.runtimeconfig.dev.json
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment.dll
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/bin/Debug/netcoreapp3.1/HumanResourceManagment.pdb
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/obj/Debug/netcoreapp3.1/HumanResourceManagment.csprojAssemblyReference.cache
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/obj/Debug/netcoreapp3.1/HumanResourceManagment.AssemblyInfoInputs.cache
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/obj/Debug/netcoreapp3.1/HumanResourceManagment.AssemblyInfo.cs
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/obj/Debug/netcoreapp3.1/HumanResourceManagment.dll
+/Users/kamilblaz/Projects/HumanResourceManagment/HumanResourceManagment/obj/Debug/netcoreapp3.1/HumanResourceManagment.pdb

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AFC19B32-0664-4C3D-89FD-48B70548919C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumanResourceManagment/HumanResources.cs">
+    <Files>
+      <File FileName="HumanResourceManagment/Program.cs" Line="18" Column="2" />
+      <File FileName="HumanResourceManagment/HumanResources.cs" Line="111" Column="5" />
+      <File FileName="HumanResourceManagment/Address.cs" Line="20" Column="1" />
+      <File FileName="HumanResourceManagment/Person.cs" Line="12" Column="7" />
+      <File FileName="HumanResourceManagment/ContractOfEmployment.cs" Line="23" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HumanResourceManagment" expanded="True">
+            <Node name="HumanResourceManagment" expanded="True">
+              <Node name="HumanResources.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HumanResourceManagment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
